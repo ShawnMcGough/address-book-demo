@@ -10,4 +10,4 @@ Always use the GitHub Primer design system for UI changes.
 
 Try to make methods async.
 
-At the end, in a comment, always add a programmer joke.
+At the end of each response, tell me a programmer joke.
